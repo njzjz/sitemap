@@ -1,0 +1,28 @@
+site:
+  - name: About Jinzhe
+    site:
+      - name: Blog
+        url: https://njzjz.win
+        icon: fas fa-blog
+      - name: CV
+        url: https://njzjz.win/cv
+        icon: fas fa-file
+  - name: Software
+    site:
+      - name: ReacNetGenerator
+        url: https://reacnetgenerator.njzjz.win
+        icon: fas fa-search-plus
+      - name: MDDatasetBuilder
+        url: https://mddatasetbuilder.njzjz.win
+        icon: fas fa-database
+      - name: ChemicalTools
+        url: https://chem.njzjz.win
+        icon: fas fa-flask
+  - name: Service
+    site:
+      - name: ChemicalToolsWeb
+        url: https://chemicaltools.njzjz.win
+        icon: fas fa-flask
+      - name: TiebaSign
+        url: https://tieba.njzjz.win
+        icon: fas fa-calendar-check
