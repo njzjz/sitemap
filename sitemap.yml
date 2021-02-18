@@ -5,7 +5,7 @@ site:
         url: https://njzjz.win
         icon: fas fa-blog
       - name: CV
-        url: https://njzjz.win/cv
+        url: https://njzjz.win/cv/
         icon: fas fa-file
   - name: Software
     site:
