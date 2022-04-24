@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "yaml": "^1.10.0"
+    "yaml": "^2.0.0"
   },
   "name": "@njzjz/sitemap",
   "version": "0.0.3",
