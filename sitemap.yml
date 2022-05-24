@@ -18,11 +18,11 @@ site:
       - name: ChemicalTools
         url: https://chem.njzjz.win
         icon: fas fa-flask
+      - name: hexo-tag-publications
+        url: https://hexo-tag-publications.njzjz.win/
+        icon: fa-solid fa-books
   - name: Service
     site:
       - name: ChemicalToolsWeb
         url: https://chemicaltools.njzjz.win
         icon: fas fa-flask
-      - name: TiebaSign
-        url: https://tieba.njzjz.win
-        icon: fas fa-calendar-check
