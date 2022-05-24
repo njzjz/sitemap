@@ -3,7 +3,7 @@
     "yaml": "^2.0.0"
   },
   "name": "@njzjz/sitemap",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
